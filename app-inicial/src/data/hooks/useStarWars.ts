@@ -17,7 +17,7 @@ export default function useStarWars() {
     }
 
     return {
-        personagens,
+    personagens,
        obterPersonagens,
        processando 
     }
