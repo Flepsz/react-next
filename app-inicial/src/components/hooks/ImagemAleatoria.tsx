@@ -12,8 +12,6 @@ export default function ImagemAleatoria() {
                 bg-blue-800 px-5 py-2 rounded-md
             `} onClick={() => {
                 setPesquisa(valor)
-                console.log(valor);
-                
             }}>
                 {valor}
             </button>
